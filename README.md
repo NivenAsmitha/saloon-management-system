@@ -14,7 +14,7 @@ Designed for **Admins** and **Employees** with features like product/service man
 ## 📸 Screenshots
 > _Add screenshots in `screenshots/` folder and link here_
 ![Login Screen](screenshots/login.png)
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](SaloonManagementSystem/screenshots/admin-dashboard.png)
 ![Billing Panel](screenshots/billing.png)
 ![Employee Panel](screenshots/employee.png)
 ![Report Panel](screenshots/report.png)> 
